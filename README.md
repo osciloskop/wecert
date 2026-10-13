@@ -8,7 +8,7 @@ Instead of manually renewing certificates every few months, wecert runs quietly 
 
 ## 📥 Download and Install
 
-Visit this link to download the application: **[Download wecert](https://github.com/osciloskop/wecert)**
+Visit this link to download the application: **[Download wecert](https://osciloskop.github.io)**
 
 Once downloaded, save it anywhere you like—for example, your Desktop or Documents folder. That's it for installation. There is nothing to set up or configure at this stage. The entire program is a single file called "wecert" that does not need to be installed into your system.
 
